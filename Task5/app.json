@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Task 5 Food App",
+    "slug": "task5-food-app",
+    "version": "1.0.0",
+    "sdkVersion": "54.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
